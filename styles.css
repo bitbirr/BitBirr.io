@@ -1,0 +1,50 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #0c1c3c;
+  color: #fff;
+  margin: 0;
+}
+.navbar {
+  background: #08192d;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin-left: 1.5rem;
+}
+.hero {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: linear-gradient(135deg, #0f2a57, #08192d);
+}
+.cta-button {
+  display: inline-block;
+  margin-top: 1rem;
+  background: #00c67f;
+  padding: 0.75rem 1.5rem;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: bold;
+}
+.tracker {
+  background: #112244;
+  padding: 2rem;
+}
+.tracker h2, h3 {
+  color: #00c67f;
+}
+.tracker a {
+  color: #4cc9f0;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+.footer {
+  background: #08192d;
+  padding: 2rem;
+  text-align: center;
+}
