@@ -27,7 +27,7 @@ BitBirr is a Flutter-based mobile application (Android) that enables Ethiopian u
 - **Flutter** (3.x): Cross-platform mobile framework (Android-only build)
 - **Provider**: State management
 - **Google Fonts**: Typography
-- **go_router**: Navigation
+- **MaterialApp Navigator**: Navigation
 
 ### Backend
 - **Supabase**: 

@@ -209,7 +209,7 @@ Frontend
 └── Dependencies:
     ├── supabase_flutter (Backend)
     ├── provider (State Management)
-    ├── go_router (Navigation)
+    ├── MaterialApp Navigator (Navigation)
     ├── google_fonts (Typography)
     └── intl (Formatting)
 
